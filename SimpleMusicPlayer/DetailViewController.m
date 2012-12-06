@@ -11,6 +11,8 @@
 
 @implementation DetailViewController
 
+
+
 @synthesize detailItem = _detailItem;
 @synthesize mediaItemCollection = _mediaItemCollection;
 
